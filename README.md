@@ -29,6 +29,7 @@ WeatherInfoProject  
     @Override
     public void onSuccess(WeatherInfo weatherInfo) {
         //weahterInfo格式參照Yahoo API json result格式
+        //Log.i("ABO", "setWeatherInfo: "+weatherInfo.getmItem().getCondition().getTemp());
     }
 
     @Override
