@@ -6,9 +6,9 @@ WeatherInfoProject  
 
 ###STEP:
 1. Add permission:
-```xml
-    <uses-permission android:name="android.permission.INTERNET" />
-```
+    ```xml
+        <uses-permission android:name="android.permission.INTERNET" />
+    ```
 2. gradle:
 ```
     compile 'com.mcxiaoke.volley:library:1.0.+'
