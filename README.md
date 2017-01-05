@@ -5,12 +5,13 @@ WeatherInfoProject  
 * [Yahoo developer](https://developer.yahoo.com/weather/)
 
 ###STEP:
-1. Add permission:
+* Add permission:
 ```xml
     <uses-permission android:name="android.permission.INTERNET" />
 ```
-2. gradle:
+* gradle:
 ```
     compile 'com.mcxiaoke.volley:library:1.0.+'
     compile 'com.google.code.gson:gson:2.+'
 ```
+
